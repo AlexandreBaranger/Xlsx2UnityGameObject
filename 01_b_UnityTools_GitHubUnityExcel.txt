@@ -1,0 +1,6 @@
+Unity package manager
+https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
+
+Unity NuGet Menu
+ExcelDataReader 
+ExcelDataReader.DataSet.
